@@ -38,7 +38,7 @@ This contract was built using the **Remix IDE** and tested locally within the de
    The process began by visiting [Remix IDE](https://remix.ethereum.org/) in a web browser.
 
 2. **Creating a New Workspace**  
-   - The "File Explorers" icon was clicked (the first icon on the left sidebar).
+   - The "File Explorers" icon was clicked .
    - A new folder was created by clicking the "+" icon .
 3. **Creating a New File**  
    - Inside the newly created folder, a new file named `SimpleStorage.sol` was created by clicking the "+" icon.
