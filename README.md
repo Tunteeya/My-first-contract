@@ -47,12 +47,12 @@ This contract was built using the **Remix IDE** and tested locally within the de
    The Solidity code for the smart contract was written directly in `SimpleStorage.sol`, ensuring all necessary features and functions were included.
 
 5. **Compiling the Contract**  
-   - The "Solidity Compiler" icon (the second icon on the left sidebar) was clicked.
+   - The "Solidity Compiler" icon  was clicked.
    - After selecting the appropriate compiler version, the "Compile SimpleStorage.sol" button was clicked.
 
 6. **Deploying the Contract**  
-   - The "Deploy & Run Transactions" icon (the third icon) was clicked.
+   - The "Deploy & Run Transactions" icon was clicked.
    - The environment was set to "Remix VM (Cancum)" for local testing, followed by deploying the contract by clicking the "Deploy" button.
 
 7. **Pushing to GitHub**  
-   After completing the testing, the project was staged and pushed to GitHub. The `README.md` file was later added to document the project and its features.
+   After deploying, the project was staged and pushed to GitHub. The `README.md` file was later added to document the project and its features.
